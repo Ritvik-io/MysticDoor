@@ -2,7 +2,7 @@
 
 This is a cinematic scene created in **Unreal Engine** featuring a mysterious door embedded in a rocky mountain. The environment is built to convey a sense of intrigue and fantasy, as if the door leads to a hidden world.
 
-![Mystic Door Scene](MysticDoorScene.png)
+
 
 ## Features
 
